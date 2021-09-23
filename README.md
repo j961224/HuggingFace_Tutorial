@@ -1,6 +1,6 @@
-# HuggingFace_Turtorial
+# HuggingFace_Tutorial
 
-HuggingFace Turtorial 모든 과정을 수행해보는 레포!
+HuggingFace Tutorial 모든 과정을 수행해보는 레포!
 
 ## Setup
 
