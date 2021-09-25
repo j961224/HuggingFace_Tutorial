@@ -29,3 +29,4 @@ import transformers
   * [Natural Language Processing](https://github.com/j961224/HuggingFace_Turtorial/blob/main/1.%20Transformer%20models/Natural%20Language%20Processing.md)
   * [Transformers, what can they do?](https://github.com/j961224/HuggingFace_Turtorial/tree/main/1.%20Transformer%20models/Transformers%2C%20what%20can%20they%20do%3F)
   * [How do Transformers work?](https://github.com/j961224/HuggingFace_Tutorial/blob/main/1.%20Transformer%20models/How%20do%20Transformers%20work%3F.md)
+  * [Encoder models](https://github.com/j961224/HuggingFace_Tutorial/blob/main/1.%20Transformer%20models/Encoder%20models.md)
