@@ -43,3 +43,10 @@ import transformers
   * [Handling multiple sequences](https://github.com/j961224/HuggingFace_Tutorial/blob/main/2.%20Using%20Transformers/Handling_multiple_sequences.ipynb)
   * [Putting it all together](https://github.com/j961224/HuggingFace_Tutorial/blob/main/2.%20Using%20Transformers/Putting_it_all_together.ipynb)
   * [End-of-chapter quiz](https://github.com/j961224/HuggingFace_Tutorial/blob/main/2.%20Using%20Transformers/End-of-chapter%20quiz.md)
+
+* Fine-tuning a pretrained model
+  * [Introduction](https://github.com/j961224/HuggingFace_Tutorial/blob/main/3.%20Fine-tuning%20a%20pretrained%20model/Introduction.md)
+  * [Processing the data](https://github.com/j961224/HuggingFace_Tutorial/blob/main/3.%20Fine-tuning%20a%20pretrained%20model/Processing_the_data.ipynb)
+  * [Fine-tuning a model with the Trainer API](https://github.com/j961224/HuggingFace_Tutorial/blob/main/3.%20Fine-tuning%20a%20pretrained%20model/Fine_tuning_a_model_with_the_Trainer_API.ipynb)
+  * [A full training](https://github.com/j961224/HuggingFace_Tutorial/blob/main/3.%20Fine-tuning%20a%20pretrained%20model/A_full_training.ipynb)
+  * [End-of-chapter quiz](https://github.com/j961224/HuggingFace_Tutorial/blob/main/3.%20Fine-tuning%20a%20pretrained%20model/End-of-chapter%20quiz.md)
