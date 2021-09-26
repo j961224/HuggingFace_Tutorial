@@ -36,6 +36,8 @@ batch에 모든 샘플들을 묶어준다. -> DataCollatorWithPadding function�
 
 Trainer로 training과 evaluation에 사용되는 모든 hyperparameters를 포함한다.
 
+(TrainingArguments("test-trainer")를 사용하며 test, train 둘다 적용!)
+
 ## 9. Accelerate library를 왜 사용하니?
 
 multiple GPUs와 TPUs로 training loops를 작동할 수 있도록 하기 위해서!
