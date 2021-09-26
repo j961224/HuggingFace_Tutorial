@@ -34,3 +34,12 @@ import transformers
   * [Sequence-to-sequence models](https://github.com/j961224/HuggingFace_Tutorial/blob/main/1.%20Transformer%20models/Sequence-to-sequence%20models.md)
   * [Bias and limitations](https://github.com/j961224/HuggingFace_Tutorial/blob/main/1.%20Transformer%20models/Bias%20and%20limitations.md)
   * [End-of-chapter quiz](https://github.com/j961224/HuggingFace_Tutorial/blob/main/1.%20Transformer%20models/End-of-chapter%20quiz.md)
+
+* Using Transformers
+  * [Introduction](https://github.com/j961224/HuggingFace_Tutorial/blob/main/2.%20Using%20Transformers/Introduction.md)
+  * [Behind the pipeline](https://github.com/j961224/HuggingFace_Tutorial/tree/main/2.%20Using%20Transformers/Behind%20the%20pipeline)
+  * [Models](https://github.com/j961224/HuggingFace_Tutorial/tree/main/2.%20Using%20Transformers/Models)
+  * [Tokenizers](https://github.com/j961224/HuggingFace_Tutorial/blob/main/2.%20Using%20Transformers/Tokenizers.ipynb)
+  * [Handling multiple sequences](https://github.com/j961224/HuggingFace_Tutorial/blob/main/2.%20Using%20Transformers/Handling_multiple_sequences.ipynb)
+  * [Putting it all together](https://github.com/j961224/HuggingFace_Tutorial/blob/main/2.%20Using%20Transformers/Putting_it_all_together.ipynb)
+  * [End-of-chapter quiz](https://github.com/j961224/HuggingFace_Tutorial/blob/main/2.%20Using%20Transformers/End-of-chapter%20quiz.md)
