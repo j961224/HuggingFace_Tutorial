@@ -54,3 +54,4 @@ import transformers
 * Sharing models and tokenizers
   * [The Hugging Face Hub](https://github.com/j961224/HuggingFace_Tutorial/blob/main/4.%20Sharing%20models%20and%20tokenizers/The%20Hugging%20Face%20Hub.md)
   * [Using pretrained models](https://github.com/j961224/HuggingFace_Tutorial/blob/main/4.%20Sharing%20models%20and%20tokenizers/Using%20pretrained%20models.md)
+  * [Sharing pretrained models](https://github.com/j961224/HuggingFace_Tutorial/blob/main/4.%20Sharing%20models%20and%20tokenizers/Sharing_pretrained_models.ipynb)
